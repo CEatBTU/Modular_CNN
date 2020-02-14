@@ -8,6 +8,7 @@ As of now, there are only the HLS soruces for each layer
 4. Compile it, test it if needed with a testbench.
 5. Sintetize it and export it as IP
 6. Add in Vivado as IP block.
+7. The python script in the data_proc folder can be used to convert a hdf5 file (a save file from tensorflow for example) into c header files to use directly with the IP blocks.
 
 ## Published paper
 16th Arc 2020, link coming soon
